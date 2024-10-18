@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://waiverly-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "adcaf93e68deca9e3c006d01deaf9e23b6f9c3766a0eabb5f785d9642a0dbf46675ad85cc0f7d6d3bf336d12fa23316f326c536e8f45bfddc92630cc164cf549cd7a5ec6a26b5653772617a4f6fef5df76738e53678331a7c29b0c4d0479e275ce38f7dfaaaf169cd45637c816c67ee6105c63e23a7c551774774afebde8e5fdabdad4f83f4d1341ae9288625f2b4f6ecc36a471ac8a4872d0118c8baaf35d9a8a7e51b27273626b86d0b872b3b2391be74da136fdce1a9b8cb74b2dd384e93770da60abb9e335436e8870454eb38781413a8c13c3fe0e50c622ee5e7d03b3de"
+  }
+}
